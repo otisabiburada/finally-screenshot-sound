@@ -1,0 +1,11 @@
+{
+  "name": "Finally Screenshot Sound",
+  "author": "Finally",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["screenshot", "sound", "audio"],
+    "description": "Plays a sound when you take a screenshot in Game Mode.",
+    "image": ""
+  }
+}
